@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python,. By the way, I'm always learning to improve my skills in solving problems.
 - </> HTML, CSS (Bootstrap and Tailwindcss), Javascript (NodeJS, VueJS, NuxtJS, AdonisJS), PHP (Laravel), Dart (Flutter), Database (MySql, Firebase, MongoDB) these are the technologies I have knowledge about and use for building real world apps.
 - 💞️ I’m looking to collaborate on any project that match the languages and framworks I use at the moment.
-- 📫 How to reach me. You can send me a mail on "aziankad@gmail.com" or send a message on my LinkedIn account "Divine Azianka".
+- 📫 How to reach me. You can send me a mail on "aziankad@gmail.com" or send a message on my LinkedIn account [Divine Azianka](https://www.linkedin.com/in/iamnomana).
 
 <!---
 iamnomana/iamnomana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
