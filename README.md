@@ -25,19 +25,19 @@
 
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrapcss" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrapcss" width="40" height="40"/> 
 </a>
 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
 </a>
 
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
 </a>
 
 <a href="https://adonisjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="40" height="40"/> 
 </a>
 
 <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
