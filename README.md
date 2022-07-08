@@ -40,11 +40,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="40" height="40"/> 
 </a>
 
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
 
-<a href="https://nuxtjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
+<a href="https://nuxtjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
 
-<a href="https://vuetifyjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://vuetifyjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="csharp" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
