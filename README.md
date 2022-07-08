@@ -17,7 +17,7 @@
 <img align="left" height='200px' width="60%" src="https://github-readme-stats.vercel.app/api?username=iamnomana&show_icons=true&include_all_commits=true&theme=radical&count_private=true"/>
 
 <!-- Most Languages Used -->
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnomana&layout=demo&theme=radical&count_private=true&langs_count=10" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnomana&layout=demo&theme=radical&count_private=true&langs_count=5" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnomana&theme=radical" />
 
