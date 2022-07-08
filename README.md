@@ -19,7 +19,7 @@
 <!-- Most Languages Used -->
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnomana&layout=demo&theme=tokyonight&count_private=true&langs_count=5&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnomana&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnomana&theme=tokyonight&hide_border=true" />
 
 <!---
 iamnomana/iamnomana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
