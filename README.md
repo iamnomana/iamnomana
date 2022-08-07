@@ -21,9 +21,10 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stacks 💻</h3>
 
 <p align="left"> 
+https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
