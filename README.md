@@ -1,5 +1,6 @@
 # 💫 About Me:
- I'm a Software Engineer from Ghana.<br> I’m interested in anything that can increase my knowledge in problem solving. In addition, I love working with a team of developers.<br> I’m currently learning Python. By the way, I'm always learning to improve my skills in solving problems.<br>I’m looking to collaborate on any project that match the tech stack I use at the moment.<br>How to reach me. You can send me a mail on aziankad@gmail.com.
+A Software Engineer.
+I love working with a team of developers.
 
 
 ## 🌐 Socials:
