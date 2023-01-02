@@ -1,6 +1,9 @@
 # 💫 About Me:
-A Software Engineer.
-I love working with a team of developers.
+As a software engineer, I have a strong programming skills and experience in designing, developing, testing, and maintaining software systems. I also have experience in working with a variety of programming languages, frameworks, and tools.
+
+As an IT support specialist, I have experience in providing technical support to users, troubleshooting hardware and software issues, and maintaining and repairing computer systems and networks. I also have knowledge of a variety of operating systems, hardware components, and software applications.
+
+As a graphic designer, I have skills in using design software, such as Adobe Photoshop and Illustrator, to create images and layouts. I also have experience in working with clients to understand their design needs and preferences.
 
 
 ## 🌐 Socials:
