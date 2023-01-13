@@ -22,10 +22,7 @@ As a graphic designer, I have skills in using design software, such as Adobe Pho
 
 ### My Spotify Playlist
 <h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"> 
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby" alt="spotify" height="320px"/>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby" alt="spotify" height="320px"/>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby&unique={true|1|on|yes})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
