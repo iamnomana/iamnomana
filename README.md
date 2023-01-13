@@ -14,13 +14,14 @@ As a graphic designer, I have skills in using design software, such as Adobe Pho
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamnomana&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnomana&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=iamnomana)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamnomana&icon=0&color=6)](https://visitcount.itsvg.in)
+
+### My Spotify Playlist
+<h3 align="center">I'm currently vibing to 🎧</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="320px"/></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
