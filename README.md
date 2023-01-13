@@ -21,7 +21,7 @@ As a graphic designer, I have skills in using design software, such as Adobe Pho
 [![](https://visitcount.itsvg.in/api?id=iamnomana&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <h3 align="center">I'm currently listening to 🎧</h3>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby" alt="spotify" height="320px"/>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby&count=10" alt="spotify" height="320px"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
