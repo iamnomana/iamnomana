@@ -25,6 +25,8 @@ As a graphic designer, I have skills in using design software, such as Adobe Pho
 
 <p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&cover_image=true&theme=default&show_offline=true&background_color=4a2cdd&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&redirect=true)
+  
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kmifezrlwnz3xq5cl4djkvcxby&cover_image=true&theme=default&show_offline=true&background_color=4a2cdd&bar_color_cover=true" />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kmifezrlwnz3xq5cl4djkvcxby" alt="spotify" height="320px"/>
 </p>
 
