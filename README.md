@@ -16,7 +16,7 @@ As a graphic designer, I have skills in using design software, such as Adobe Pho
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnomana&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamnomana&icon=0&color=6)](https://visitcount.itsvg.in)
