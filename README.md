@@ -1,8 +1,7 @@
 # 💫 About Me:
 As a software engineer, I have strong programming skills and experience designing, developing, testing, and maintaining software systems. I also have experience working with various programming languages, frameworks, and tools.<br><br>
-As an IT support specialist, I have experience providing technical support to users, troubleshooting hardware and software issues, and maintaining and repairing computer systems and networks. I also have knowledge of a variety of operating systems, hardware components, and software applications.<br><br>
-As a graphic designer, I have skills in using design software, such as Adobe Photoshop and Illustrator, to create images and layouts. I also have experience in working with clients to understand their design needs and preferences.
-
+As an IT support specialist, I have experience providing technical support to users, troubleshooting hardware and software issues. I also have knowledge of a variety of operating systems, hardware components, and software applications.<br><br>
+As a graphic designer, I have skills in using design software, such as Lunacy, Adobe Photoshop and Adobe Illustrator, to create images and layouts. I also have experience in working with clients to understand their design needs and preferences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/divine.nomana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnomana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamnomana) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamnomana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamnomana) 
