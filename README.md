@@ -4,8 +4,8 @@
 Welcome to my GitHub! 🚀 I’m a freelance software engineer with a passion for modern technologies and a commitment to sharing knowledge. Over the past few years, I’ve worked on projects actively used by **government institutions** and **security agencies worldwide**, ensuring their success with secure, scalable, and efficient software systems.
 
 ## 💡 Core Expertise:
-- **Backend:** Laravel, Adonis.js  
-- **Frontend:** Vue.js, Next.js  
+- **Backend:** Laravel, Adonis.js, C#, ExpressJS
+- **Frontend:** Nuxt.js, Next.js
 - **Mobile Development:** Flutter  
 - **APIs:** RESTful & GraphQL  
 
