@@ -4,7 +4,7 @@
 
 Welcome! I’m **Divine Azianka**, a **freelance software engineer** passionate about creating impactful digital experiences and mentoring the next generation of developers.  
 
-I specialize in building **secure, scalable, and efficient software systems** — from full-stack web applications to mobile solutions, that have powered **government institutions** and **security agencies worldwide**.  
+I specialize in building **secure, scalable, and efficient software systems** from full-stack web applications to mobile solutions, that have powered **government institutions** and **security agencies worldwide**.  
 
 ---
 
