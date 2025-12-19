@@ -1,6 +1,6 @@
 # 👨‍💻 Divine Azianka — Software Engineer | Mentor  
 
-### 🚀 Laravel | Flutter | Nuxt.js | Next.js
+### 🚀 Laravel | Flutter | Nuxt.js | Next.js | Javascript | Python
 
 Welcome! I’m **Divine Azianka**, a **freelance software engineer** passionate about creating impactful digital experiences and mentoring the next generation of developers.  
 
@@ -10,7 +10,7 @@ I specialize in building **secure, scalable, and efficient software systems** fr
 
 ## 💡 Core Expertise  
 
-- **Backend Development:** Laravel · AdonisJS · Express.js · C#  
+- **Backend Development:** Laravel · AdonisJS · Express.js · C# · Python 
 - **Frontend Development:** Vue.js · Nuxt.js · Next.js  
 - **Mobile Development:** Flutter  
 - **APIs:** RESTful · GraphQL  
@@ -29,7 +29,7 @@ I specialize in building **secure, scalable, and efficient software systems** fr
 ## 💻 Tech Stack  
 
 **Languages & Frameworks:**  
-PHP · TypeScript · Dart · Python · C# · Laravel · Flutter · Node.js · Express.js · AdonisJS · Next.js · Nuxt.js · Vue.js · React  
+PHP · TypeScript · Dart · Python · C# · Laravel · Flutter · Node.js · Express.js · AdonisJS · Next.js · Nuxt.js · Vue.js · ReactJs  
 
 **Databases & APIs:**  
 MySQL · PostgreSQL · SQLite · MongoDB · Supabase · Firebase · GraphQL · REST APIs  
