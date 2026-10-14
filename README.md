@@ -1,4 +1,4 @@
-# 👨‍💻 Divine Azianka — Software Engineer | Mentor  
+# 👨‍💻 Divine Nomana A. — Software Engineer | Mentor  
 
 ### 🚀 Laravel | Flutter | Nuxt.js | Next.js | Javascript | Python
 
